@@ -1,2 +1,4 @@
-.data
-.data-pipelines/.env
+
+# Data and configuration files
+data/
+data-pipelines/.env
